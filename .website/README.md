@@ -1,4 +1,7 @@
 ---
+genres:
+  - educational
+  - puzzle
 video: https://youtu.be/xzD7juEvLFg
 post: https://xem.github.io/articles/js13k15.html
 # See github.com/js13kGames/hello-world for supported frontmatter
